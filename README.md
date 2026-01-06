@@ -5,7 +5,7 @@ TET Loss is a manually tuned, static regularization approach that employs fixed 
 
 This study is published by the _Journal of Imaging Informatics in Medicine_: https://link.springer.com/article/10.1007/s10278-025-01816-9.
 
-You can access our article for free through this link: \url{https://rdcu.be/eXGX6}.
+You can access our article for free through this link: https://rdcu.be/eXGX6.
 
 **The usage method can be referred to [the ipynb file of MiT_loss](https://github.com/JEFfersusu/MiT_loss/blob/main/Example_of%20_training.ipynb).**
 
