@@ -3,7 +3,7 @@
 
 This study is published by the _Journal of Imaging Informatics in Medicine_: https://link.springer.com/article/10.1007/s10278-025-01816-9.
 
-**The usage method can be referred to the ipynb file of [MiT_loss](https://github.com/JEFfersusu/MiT_loss/tree/main).**
+**The usage method can be referred to the ipynb file of [MiT_loss](https://github.com/JEFfersusu/MiT_loss/blob/main/Example_of%20_training.ipynb).**
 
 ## Citation
 If you think that our work is useful to your research, please cite using this BibTeX:
