@@ -10,7 +10,7 @@ You can access our article for free through this link: https://rdcu.be/eXGX6.
 **The usage method can be referred to [the ipynb file of MiT_loss](https://github.com/JEFfersusu/MiT_loss/blob/main/Example_of%20_training.ipynb).**
 
 ## Citation
-If you think that our work is useful to your research, please cite using this BibTeX:
+If you think that our work is useful to your research, please cite using this BibTeX😊:
 ```bibtex
 @article{Pan2026,
   author    = {Pan, Weichao},
