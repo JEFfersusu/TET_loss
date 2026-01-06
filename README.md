@@ -1,6 +1,10 @@
 # TET Loss
 **Official PyTorch implementation of "TET Loss: A Temperature-Entropy Calibrated Transfer Loss for Reliable Medical Image Classification"**.
 
+TET Loss is a manually-tuned, static regularization version. This is an empirically-driven (heuristic) but highly practical approach.
+
+TET Loss can be viewed as a static and heuristic instantiation of our MiT loss, where temperature and entropy regularization strength are manually fixed.
+
 This study is published by the _Journal of Imaging Informatics in Medicine_: https://link.springer.com/article/10.1007/s10278-025-01816-9.
 
 **The usage method can be referred to the ipynb file of [MiT_loss](https://github.com/JEFfersusu/MiT_loss/blob/main/Example_of%20_training.ipynb).**
