@@ -1,0 +1,22 @@
+# MiT Loss
+**Official PyTorch implementation of "TET Loss: A Temperature-Entropy Calibrated Transfer Loss for Reliable Medical Image Classification"**.
+
+This study is published by the _Journal of Imaging Informatics in Medicine_: https://link.springer.com/article/10.1007/s10278-025-01816-9.
+
+
+## Citation
+If you think that our work is useful to your research, please cite using this BibTeX:
+```bibtex
+@article{Pan2026,
+  author    = {Pan, Weichao},
+  title     = {TET Loss: A Temperature-Entropy Calibrated Transfer Loss for Reliable Medical Image Classification},
+  journal   = {Journal of Imaging Informatics in Medicine},
+  year      = {2026},
+  date      = {2026-01-05},
+  issn      = {2948-2933},
+  doi       = {10.1007/s10278-025-01816-9},
+  url       = {https://doi.org/10.1007/s10278-025-01816-9},
+}
+```
+
+If you have any questions, please contact: panweichao01@outlook.com.
