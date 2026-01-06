@@ -1,4 +1,4 @@
-class MiT_Loss(nn.Module):
+class TET_Loss(nn.Module):
     def __init__(self, T=0.5, lambda_entropy=0.1):
         super().__init__()
         self.ce = nn.CrossEntropyLoss()
