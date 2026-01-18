@@ -9,7 +9,7 @@ You can access our article for free through this link: https://rdcu.be/eXGX6.
 
 **The usage method can be referred to [the ipynb file of MiT_loss](https://github.com/JEFfersusu/MiT_loss/blob/main/Example_of%20_training.ipynb).**
 
-**Note: TET Loss, MiT Loss, and CCT-EAL were introduced across different publications due to practical constraints and evolving research focus. Although they were not evaluated in a single unified study, all three methods have been independently published. We plan to further consolidate and refine this line of work in future research.**
+**Note: TET Loss, MiT Loss, and [CCT-EAL](https://github.com/JEFfersusu/CCT-EAL) were introduced across different publications due to practical constraints and evolving research focus. Although they were not evaluated in a single unified study, all three methods have been independently published. We plan to further consolidate and refine this line of work in future research.**
 
 ## Citation
 If you think that our work is useful to your research, please cite using this BibTeX😊:
